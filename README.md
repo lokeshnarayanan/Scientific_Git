@@ -990,7 +990,7 @@ class MainActivity : AppCompatActivity() {
 
 ## OUTPUT:
 
-![Screenshot (208)](https://github.com/chandrumathiyazhagan/Scientific_Git/assets/119393023/520d3687-e0cb-49fd-9756-e32c6f72c569)
+![329299500-520d3687-e0cb-49fd-9756-e32c6f72c569](https://github.com/lokeshnarayanan/Scientific_Git/assets/119393019/0478abcc-62e4-478c-ac7a-1b5dc0ef3a78)
 
 
 ## RESULT:
